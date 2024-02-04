@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Dorkmode",
+    "description": "A darkmode theme for Google Chrome Browser",
+    "theme": {
+        "colors": {
+            "frame": [13, 17, 23],
+            "frame_inactive": [23, 27, 34],
+            "toolbar": [1, 4, 9],
+            "tab_text": [248, 249, 250],
+            "tab_background_text": [222, 226, 230],
+            "bookmark_text": [248, 249, 250],
+            "ntp_background": [1, 4, 9],
+            "ntp_text": [248, 249, 250],
+            "ntp_link": [6, 55, 116],
+            "omnibox_background": [23, 27, 34],
+            "omnibox_text": [248, 249, 250]
+        },
+        "tints": {
+            "buttons": [0.58, 0.17, 0.98]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
