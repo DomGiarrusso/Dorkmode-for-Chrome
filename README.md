@@ -8,7 +8,7 @@ A darkmode theme for Google Chrome Browser.
 
 ## Description:
 
-A Google Chrome theme for people who like it dark but don't want it black. Insipired from another theme I created for VS Code.
+A Google Chrome theme for people who like it dark but don't want it black. Inspired from another theme I created for VS Code.
 
 ## Motivations
 
